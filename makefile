@@ -1,6 +1,6 @@
 clean:
 	rm -rf makefile
-	rm -rf README
+	rm -rf README.md
 	rm -rf .git
 
 .PHONY: clean
